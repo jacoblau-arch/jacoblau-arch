@@ -3,6 +3,8 @@
 Junior infrastructure technician based in Tokyo.
 Hands-on with networking, Linux, Windows Server, virtualization, and hardware.
 
+Currently studying for CompTIA Security+, Network+, and CCNA.
+
 ## Featured Projects
 
 ### Small-Business Network (2025)
