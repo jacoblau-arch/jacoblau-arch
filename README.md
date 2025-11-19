@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jacob Lau
 
-<!--
-**jacoblau-arch/jacoblau-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior infrastructure technician based in Tokyo.
+Hands-on with networking, Linux, Windows Server, virtualization, and hardware.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Small-Business Network (2025)
+Layered VLAN design, ACLs, DHCP per subnet, L3 routing, and full topology.
+Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/NetworkLab
+
+### Personal Infrastructure Lab
+Virtualized Windows and Linux setups, VPN, Pi-hole DNS resolver, and home network hardening.
+
+### Extreme Networks Technical Work
+Documentation, rack prep, switch configuration, and server imaging.
