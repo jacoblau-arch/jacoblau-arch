@@ -10,12 +10,12 @@ Tech stack: Networking, Linux, Windows Server, Cisco IOS, VirtualBox, OpenVPN, A
 
 ### Small-Business Network Build (2025)
 Layered multi-VLAN design with ACLs, DHCP per subnet, and L3 routing. Includes full Packet Tracer topology, configs, and documentation.  
-Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/NetworkLab
+Repo: https://github.com/jacoblau-arch/Portfolio.git
 
 ### Personal Infrastructure Lab
 Virtualized Windows and Linux environments, OpenVPN configuration, Pi-hole DNS resolver, and a hardened home network.  
-Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/HomeLab
+Repo: https://github.com/jacoblau-arch/HomeLab.git
 
 ### Extreme Networks Technical Work
 Hands-on experience with corporate switch configuration, server imaging pipelines, port mapping, and rack validation.  
-Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/ExtremeNetworks
+Repo: https://github.com/jacoblau-arch/ExtremeNetworks.git 
