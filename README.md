@@ -14,8 +14,8 @@ Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/NetworkLab
 
 ### Personal Infrastructure Lab
 Virtualized Windows and Linux environments, OpenVPN configuration, Pi-hole DNS resolver, and a hardened home network.  
-
+Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/HomeLab
 
 ### Extreme Networks Technical Work
 Hands-on experience with corporate switch configuration, server imaging pipelines, port mapping, and rack validation.  
-
+Repo: https://github.com/jacoblau-arch/Portfolio/tree/main/ExtremeNetworks
